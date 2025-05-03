@@ -1,0 +1,6 @@
+﻿  Admin.cpp
+D:\College\大一\C++\点单系统\点单系统\Admin.cpp(211,13): warning C4566: 由通用字符名称“\U0001F37D”表示的字符不能在当前代码页(936)中表示出来
+D:\College\大一\C++\点单系统\点单系统\Admin.cpp(211,13): warning C4566: 由通用字符名称“\uFE0F”表示的字符不能在当前代码页(936)中表示出来
+  main.cpp
+  正在生成代码...
+  点单系统.vcxproj -> D:\College\大一\C++\点单系统\x64\Debug\点单系统.exe
